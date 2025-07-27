@@ -1,0 +1,11 @@
+firebase-admin
+google-cloud-firestore
+google-cloud-bigquery
+python-dotenv
+shapely
+google-generativeai
+imagehash
+Pillow
+sentence-transformers
+scikit-learn
+numpy

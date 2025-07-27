@@ -1,0 +1,15 @@
+latitude,longitude,category,subcategory,risk_score,timestamp
+24.5854,73.7125,road,pothole,0.85,2023-05-15T10:30:00Z
+24.5861,73.7128,road,pothole,0.90,2023-05-20T11:00:00Z
+24.5791,73.6811,electrical,streetlight,0.60,2023-06-01T21:00:00Z
+24.5855,73.7126,road,pothole,0.88,2023-06-05T09:00:00Z
+24.5732,73.6915,sanitation,garbage,0.75,2023-06-10T14:00:00Z
+24.5735,73.6918,sanitation,garbage,0.78,2023-06-12T15:00:00Z
+24.5910,73.7250,water,leakage,0.95,2023-07-02T08:00:00Z
+24.5800,73.6820,electrical,streetlight,0.65,2023-07-11T22:30:00Z
+24.5849,73.7130,road,pothole,0.92,2023-07-18T16:00:00Z
+24.5740,73.6925,sanitation,garbage,0.80,2023-08-01T11:00:00Z
+24.5858,73.7122,road,pothole,0.86,2023-08-05T13:45:00Z
+24.5915,73.7255,water,leakage,0.98,2023-08-10T07:00:00Z
+24.5788,73.6805,electrical,streetlight,0.55,2023-08-22T20:00:00Z
+24.5852,73.7120,road,pothole,0.89,2023-09-01T12:00:00Z
